@@ -1,0 +1,248 @@
+Uri: https://ankacode.xyz/
+File Name: H:\website copy\ankacode.xyz\index.htm
+Content Type: text/html
+
+Uri: https://cdn.discordapp.com/attachments/853166696214691851/894130919223480330/ankacode.png
+File Name: H:\website copy\ankacode.xyz\attachments\853166696214691851\894130919223480330\ankacode.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/icons/809835006721392664/f21b633a1d49a55a048e8686947511c1.webp
+File Name: H:\website copy\ankacode.xyz\icons\809835006721392664\f21b633a1d49a55a048e8686947511c1.webp
+Content Type: image/webp
+
+Uri: https://ankacode.xyz/index.css
+File Name: H:\website copy\ankacode.xyz\index.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css
+File Name: H:\website copy\ankacode.xyz\npm\bootstrap@5.0.0-beta1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand
+File Name: H:\website copy\ankacode.xyz\css.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.12.0/css/all.css
+File Name: H:\website copy\ankacode.xyz\releases\v5.12.0\css\all.css
+Content Type: text/css
+
+Uri: https://ankacode.xyz/js
+File Name: H:\website copy\ankacode.xyz\js.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/html
+File Name: H:\website copy\ankacode.xyz\html.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/altyapi
+File Name: H:\website copy\ankacode.xyz\altyapi.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/diger
+File Name: H:\website copy\ankacode.xyz\diger.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/topluluk
+File Name: H:\website copy\ankacode.xyz\topluluk.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/jsplus
+File Name: H:\website copy\ankacode.xyz\jsplus.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/bdfd
+File Name: H:\website copy\ankacode.xyz\bdfd.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/altyapiplus
+File Name: H:\website copy\ankacode.xyz\altyapiplus.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/yetkililer
+File Name: H:\website copy\ankacode.xyz\yetkililer.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/sss
+File Name: H:\website copy\ankacode.xyz\sss.html
+Content Type: text/html
+
+Uri: https://quark-whimsical-bonnet.glitch.me/style.css
+File Name: H:\website copy\ankacode.xyz\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,700,800,300
+File Name: H:\website copy\ankacode.xyz\css-1.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: H:\website copy\ankacode.xyz\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://discord.com/invite/ankacode
+File Name: H:\website copy\ankacode.xyz\invite\ankacode.html
+Content Type: text/html
+
+Uri: https://github.com/ankacodecommunity
+File Name: H:\website copy\ankacode.xyz\ankacodecommunity.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/cdn-cgi/l/email-protection
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/ankacodecommunity/
+File Name: H:\website copy\ankacode.xyz\ankacodecommunity\index.htm
+Content Type: text/html
+
+Uri: https://www.dmca.com/Protection/Status.aspx?ID=aae727a8-8c55-4990-9afd-0c08c9cb5d10
+File Name: H:\website copy\ankacode.xyz\Protection\Status.aspx.html
+Content Type: text/html
+
+Uri: https://code.jquery.com/jquery-3.5.0.js
+File Name: H:\website copy\ankacode.xyz\jquery-3.5.0.js
+Content Type: application/javascript
+
+Uri: https://kit.fontawesome.com/c8e4d183c2.js
+File Name: H:\website copy\ankacode.xyz\c8e4d183c2.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: H:\website copy\ankacode.xyz\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: H:\website copy\ankacode.xyz\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://cdn.glitch.me/3b92689f-ba2b-4209-a2b4-3c4a050aa0f5%2FDiscord-Logo%2BWordmark-Black.png?v=1634054894809
+File Name: H:\website copy\ankacode.xyz\3b92689f-ba2b-4209-a2b4-3c4a050aa0f5Discord-Logo+Wordmark-Black.png
+Content Type: image/png
+
+Uri: https://purple-silver-helicona.glitch.me/Javascript/main.js
+File Name: H:\website copy\ankacode.xyz\Javascript\main.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js
+File Name: H:\website copy\ankacode.xyz\npm\bootstrap@5.0.0-beta1\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://ankacode.xyz/index.js
+File Name: H:\website copy\ankacode.xyz\index.js
+Content Type: application/javascript
+
+Uri: https://images.dmca.com/Badges/dmca-badge-w100-5x1-07.png?ID=aae727a8-8c55-4990-9afd-0c08c9cb5d10
+File Name: H:\website copy\ankacode.xyz\Badges\dmca-badge-w100-5x1-07.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://images.dmca.com/Badges/DMCABadgeHelper.min.js
+File Name: H:\website copy\ankacode.xyz\Badges\DMCABadgeHelper.min.js
+Content Type: application/javascript
+
+Uri: https://ankacode.xyz/loader.css
+File Name: H:\website copy\ankacode.xyz\loader.css
+Content Type: text/css
+
+Uri: https://ankacode.xyz/navbar.css
+File Name: H:\website copy\ankacode.xyz\navbar.css
+Content Type: text/css
+
+Uri: https://ankacode.xyz/team.css
+File Name: H:\website copy\ankacode.xyz\team.css
+Content Type: text/css
+
+Uri: https://cdn.discordapp.com/avatars/817560780894502943/f06a045fc6c581769cd883bec5937dde.webp
+File Name: H:\website copy\ankacode.xyz\avatars\817560780894502943\f06a045fc6c581769cd883bec5937dde.webp
+Content Type: image/webp
+
+Uri: https://cdn.discordapp.com/avatars/509417115439071233/a_5016595f5e6de939a3706caf9c9f0948.gif
+File Name: H:\website copy\ankacode.xyz\avatars\509417115439071233\a_5016595f5e6de939a3706caf9c9f0948.gif
+Content Type: image/gif
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+File Name: H:\website copy\ankacode.xyz\ajax\libs\jquery\3.1.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn.discordapp.com/avatars/509417115439071233/a_5016595f5e6de939a3706caf9c9f0948.gif?size=2048
+File Name: H:\website copy\ankacode.xyz\avatars\509417115439071233\a_5016595f5e6de939a3706caf9c9f0948-1.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/810041812362330124/d7318b3c5b2024af61dc17bee599e2fd.webp?size=2048
+File Name: H:\website copy\ankacode.xyz\avatars\810041812362330124\d7318b3c5b2024af61dc17bee599e2fd.webp
+Content Type: image/webp
+
+Uri: https://discord.com/oauth2/authorize?response_type=code&redirect_uri=https:%2F%2Fankacode.xyz%2Fcallback&scope=identify guilds&client_id=814756722559156265
+File Name: H:\website copy\ankacode.xyz\oauth2\authorize.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/error?statuscode=404&message=Sayfa Bulunamadı!
+File Name: H:\website copy\ankacode.xyz\error.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/Pe6sm25EUD
+File Name: H:\website copy\ankacode.xyz\invite\Pe6sm25EUD.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/cdn-cgi/styles/cf.errors.css
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: H:\website copy\ankacode.xyz\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://cdn.glitch.me/3b92689f-ba2b-4209-a2b4-3c4a050aa0f5%2FSocial Avatar.png
+File Name: H:\website copy\ankacode.xyz\3b92689f-ba2b-4209-a2b4-3c4a050aa0f5Social Avatar.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/error?statuscode=138&message=Kodları Görebilmek İçin Discord Sunucumuza Katılmanız ve Siteye Giriş Yapmanız Gerekmektedir.
+File Name: H:\website copy\ankacode.xyz\error-1.html
+Content Type: text/html
+
+Uri: https://ankacode.xyz/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/browser-bar.png?1376755637
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-icon-ok.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-icon-error.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-icon-browser.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-icon-cloud.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://ankacode.xyz/cdn-cgi/images/cf-icon-server.png
+File Name: H:\website copy\ankacode.xyz\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: H:\website copy\ankacode.xyz\5xx-error-landing\index.htm
+Content Type: text/html
+
